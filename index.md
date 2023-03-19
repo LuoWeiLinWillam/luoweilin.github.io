@@ -59,8 +59,8 @@ Improving Local Search Algorithms via Probabilistic Configuration Checking.
 *Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI)*, 2022: 9849-9857. 
 (CCF A, 
 [paper](./paper/aaai-pcc-public.pdf), 
-[slide](??)
-[poster](??))
+[slide](./slide/aaai22-pcc-pre.pdf),
+[poster](./slide/aaai22-pcc-poster-landscape.pdf))
 
 - **Weilin Luo**, Hai Wan\*, Hongzhen Zhong, Ou Wei, Biqing Fang, Xiaotong Song. 
 An Efficient Two-phase Method for Prime Compilation of Non-clausal Boolean Formulae. 
