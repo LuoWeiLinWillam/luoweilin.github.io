@@ -22,8 +22,8 @@ I now focus on learning formal languages and satisfiability checking for linear 
 
 - Rongzhen Ye, Tianqu Zhuang, Hai Wan\*, Jianfeng Du\*, **Weilin Luo**, Pingjia Liang.
 A Noise-tolerant Differentiable Learning Approach for Single Occurrence Regular Expression with Interleaving.
-To appear in *Proceedings of the 32th International Joint Conference on Artificial Intelligence (IJCAI)*, 2023.
-(CCF A)
+To appear in *Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI)*, 2023.
+(CCF A, acceptance rate: 19.6%)
 
 - **罗炜麟**, 万海\*, 杨滨好, 李骁达, 曹鉴恩, 宋晓彤. 
 套索边界条件: 一种可指导目标冲突修复的分歧描述. 
@@ -40,7 +40,7 @@ Checking LTL Satisfiability via End-to-end Learning.
 
 - **Weilin Luo**, Hai Wan\*, Jianfeng Du\*, Xiaoda Li, Yuze Fu, Rongzhen Ye, Delong Zhang. 
 Teaching LTLf Satisfiability Checking to Neural Networks. *Proceedings of the 31th International Joint Conference on Artificial Intelligence (IJCAI)*, 2022: 3292-3298.
-(CCF A, 
+(CCF A, acceptance rate: 15%, 
 [paper](./paper/ijcai-ltlfsc-public.pdf), 
 [code](https://github.com/wanderer0205/LTLfNet), 
 [slide](./slide/ijcai22-ltlfsc-pre.pdf))
@@ -48,7 +48,7 @@ Teaching LTLf Satisfiability Checking to Neural Networks. *Proceedings of the 31
 - **Weilin Luo**, Pingjia Liang, Jianfeng Du\*, Hai Wan\*, Bo Peng, Delong Zhang. 
 Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae. 
 *Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI)*, 2022: 10283-10290. 
-(CCF A, 
+(CCF A, acceptance rate: 15%, 
 [paper](./paper/aaai22-gltlfl-public.pdf), 
 [code](https://github.com/a79461378945/Bridging-LTLf-Inference-to-GNN-Inference-for-Learning-LTLf-Formulae), 
 [slide](./slide/aaai22-gltlfl-pre.pdf), 
@@ -57,7 +57,7 @@ Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae.
 - **Weilin Luo**, Rongzhen Ye, Hai Wan\*, Shaowei Cai\*, Biqing Fang, Delong Zhang. 
 Improving Local Search Algorithms via Probabilistic Configuration Checking. 
 *Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI)*, 2022: 9849-9857. 
-(CCF A, 
+(CCF A, acceptance rate: 15%, 
 [paper](./paper/aaai-pcc-public.pdf), 
 [slide](./slide/aaai22-pcc-pre.pdf),
 [poster](./slide/aaai22-pcc-poster-landscape.pdf))
