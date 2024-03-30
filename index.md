@@ -3,7 +3,7 @@
 ![mypc](./picture/myphoto.jpg)
 
 I am now a postdoctoral in School of Computer Science and Engineering, Sun Yat-sen University (SYSU). 
-Before that I got my Ph.D. degree in [School of Computer Science and Engineering, Sun Yat-sen University (SYSU)](https://cse.sysu.edu.cn/)
+Before that I got my Ph.D. degree in [School of Computer Science and Engineering, Sun Yat-sen University (SYSU)](https://cse.sysu.edu.cn/).
 
   > Address: School of Computer Science and Engineering, Sun Yat-sen University
   
@@ -18,17 +18,50 @@ My research interests are Neuro-symbolic Computing, Knowledge Mining/Discover, B
 
 I now focus on learning formal languages and satisfiability checking for linear temporal logic (LTL).
 
-## Publications
+## Publication
+
+<!-- To appear in -->
+
+- **Weilin Luo**, Polong Chen, Hai Wan, Hongzhen Zhong, Shaowei Cai, Zhanhao Xiao. 
+Goal-conflict Identification Based on Local Search and Fast Boundary-condition Verification Based on Incremental Satisfiability Filter. 
+To appear in *Journal of Systems and Software (JSS)*, 2024. 
+(CCF B, 中科院2区, IF: 3.5)
+
+- **Weilin Luo**, Weiyuan Fang, Qiu Junming, Hai Wan, Yanan Liu, Rongzhen Ye. 
+ITG: Trace Generation via Iterative Interaction between LLM Query and Trace Checking. 
+To appear in *Proceedings of the 46th International Conference on Software Engineering (ICSE)*, 2024. 
+(CCF A)
+
+- Hai Wan, Pingjia Liang, Jianfeng Du\*, **Weilin Luo**, Rongzhen Ye, Bo Peng. 
+End-to-End Learning of LTLf Formulae by Faithful LTLf Encoding. 
+*Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI)*, 2024, 9071-9079.
+(CCF A, acceptance rate: 23.75%,
+[paper](./paper/aaai24-tltlfl-publish.pdf), 
+[code](https://github.com/a79461378945/TLTLf), 
+[slide](./aaai24-TLTLf-pre.pdf),
+[poster](./slide/aaai24-poster-landscape.pdf))
+
+- **Weilin Luo**, Yuhang Zheng, Rongzhen Ye, Hai Wan\*, Jianfeng Du\*, Pingjia Liang, Polong Chen. 
+SAT-verifiable LTL Satisfiability Checking via Graph Representation Learning.
+*Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2023: 1761-1765. 
+(CCF A, 
+[paper](./paper/ase23-ltlsc-public.pdf), 
+[code](https://github.com/sysulic/OSUG), 
+[slide](./ase23-ltlsc-pre.pdf))
 
 - Rongzhen Ye, Tianqu Zhuang, Hai Wan\*, Jianfeng Du\*, **Weilin Luo**, Pingjia Liang.
 A Noise-tolerant Differentiable Learning Approach for Single Occurrence Regular Expression with Interleaving.
-To appear in *Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI)*, 2023.
-(CCF A, acceptance rate: 19.6%)
+*Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI)*, 2023.
+(CCF A, acceptance rate: 19.6%,
+[paper](./paper/aaai23-rel-publish.pdf), 
+[slide](./slide/aaai23-SOIREDL-pre.pdf),
+[poster](./slide/aaai23-SOIREDL-poster-landscape.pdf))
 
 - **罗炜麟**, 万海\*, 杨滨好, 李骁达, 曹鉴恩, 宋晓彤. 
 套索边界条件: 一种可指导目标冲突修复的分歧描述. 
-即将发表于 *计算机工程与科学*, 2023. 
-(CCF T2)
+*计算机工程与科学*, 2023, 45(5): 820-829. 
+(CCF T2,
+[paper](./paper/tsbjtj-public.pdf))
 
 - **Weilin Luo**, Hai Wan\*, Delong Zhang, Jianfeng Du\*, Hengdi Su. 
 Checking LTL Satisfiability via End-to-end Learning. 
@@ -80,7 +113,7 @@ How to Identify Boundary Conditions with Contrasty Metric?
 - **Weilin Luo**, Ou Wei, Hai Wan\*. 
 SATMCS: An Efficient SAT-Based Algorithm and Its Improvements for Computing Minimal Cut Sets. 
 *IEEE Transactions on Reliability*, 2021, 70(2): 575-589. 
-(JCR Q1, IF: 5.883, one of the top-tier conferences in reliability, 
+(中科院2区, IF: 5.883, one of the top-tier conferences in reliability, 
 [paper](./paper/TR20-mcs-public.pdf), 
 [code](https://github.com/LuoWeiLinWillam/SatFTA))
 
@@ -112,7 +145,17 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 - M.Sc., Software Engineering, [Nanjing University of Aeronautics and Astronautics](https://cs.nuaa.edu.cn/), 09/2015 - 03/2018
 - B.E., Software Engineering, [Nanchang Hangkong University](https://ss.nchu.edu.cn/), 09/2011 - 06/2015 -->
 
-## Talks
+## Patent (authorized)
+
+- 魏欧, 罗炜麟, 李宙州. 一种基于特征配置的系统层综合模型安全验证方法, 2020-06-16, 中国, CN201710146160.0.
+
+- 魏欧, 黄鸣宇, 罗炜麟, 王立松. 基于特征配置的故障树生成方法, 2018-11-16, 中国, CN201510828656.7.
+
+- 万海, 钟洪桢, 罗炜麟, 范科峰, 赵杭. 一种形式化需求规约自动化修复方法, 2022-02-25, 中国, ZL202110022180.3.
+
+- 万海; 陈灏; 罗炜麟; 曾娟; 黄佳莉. 一种基于触发式规则的反馈式对话意图获取方法, 2023-06-06, 中国, CN202110743690.X.
+
+## Talk
 
 - Improving Local Search Algorithms via Probabilistic  Configuration Checking, HCP论坛, AAAI 2022报告会报告.
 ([slide](./slide/HCP-aaai22-pcc-pre.pdf))
@@ -152,6 +195,7 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 
 ## Awards/Honors
 
+- 2022 广东省计算机学会优秀论文, 三等奖, 第一完成人
 - 2022 中山大学优秀博士论文
 - 2022 中山大学优秀毕业生
 - 2020-2021 国家奖学金
