@@ -56,7 +56,7 @@ End-to-End Learning of LTLf Formulae by Faithful LTLf Encoding.
 (CCF A, acceptance rate: 23.75%,
 [paper](./paper/aaai24-tltlfl-publish.pdf), 
 [code](https://github.com/a79461378945/TLTLf), 
-[slide](./aaai24-TLTLf-pre.pdf),
+[slide](./slide/aaai24-TLTLf-pre.pdf),
 [poster](./slide/aaai24-poster-landscape.pdf))
 
 - **Weilin Luo**, Yuhang Zheng, Rongzhen Ye, Hai Wan\*, Jianfeng Du\*, Pingjia Liang, Polong Chen. 
@@ -65,7 +65,7 @@ SAT-verifiable LTL Satisfiability Checking via Graph Representation Learning.
 (CCF A, 
 [paper](./paper/ase23-ltlsc-public.pdf), 
 [code](https://github.com/sysulic/OSUG), 
-[slide](./ase23-ltlsc-pre.pdf))
+[slide](./slide/ase23-ltlsc-pre.pdf))
 
 - Bo Peng, Pingjia Liang, Tingchen Han, **Weilin Luo**, Jianfeng Du\*, Hai Wan\*, Rongzhen Ye, Yuhang Zheng:
 PURLTL: Mining LTL Specification from Imperfect Traces in Testing. 
