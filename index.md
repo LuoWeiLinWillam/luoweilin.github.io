@@ -22,15 +22,33 @@ I now focus on learning formal languages and satisfiability checking for linear 
 
 <!-- To appear in -->
 
-- **Weilin Luo**, Polong Chen, Hai Wan, Hongzhen Zhong, Shaowei Cai, Zhanhao Xiao. 
-Goal-conflict Identification Based on Local Search and Fast Boundary-condition Verification Based on Incremental Satisfiability Filter. 
-To appear in *Journal of Systems and Software (JSS)*, 2024. 
-(CCF B, 中科院2区, IF: 3.5)
-
-- **Weilin Luo**, Weiyuan Fang, Qiu Junming, Hai Wan, Yanan Liu, Rongzhen Ye. 
-ITG: Trace Generation via Iterative Interaction between LLM Query and Trace Checking. 
-To appear in *Proceedings of the 46th International Conference on Software Engineering (ICSE)*, 2024. 
+- **Weilin Luo**, Tingchen Han, Junming Qiu, Hai Wan\*, Jianfeng Du\*, Bo Peng, Guohui Xiao, Yanan Liu. 
+NADA: Neural Acceptance-Driven Approximate Specification Mining. 
+To appear in *Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2025.
 (CCF A)
+
+- **Weilin Luo**, Pingjia Liang, Junming Qiu, Polong Chen, Hai Wan\*, Jianfang Du\*, Weiyuan Fang.
+Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking. 
+*Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2024: 996-1008.
+(CCF A,
+[paper](./paper/issta24-ltlvsc-publish.pdf), 
+[code](https://github.com/sysulic/VSCNet), 
+[slide](./slide/issta-ltlvsc-pre.pdf))
+
+- **Weilin Luo**, Polong Chen, Hai Wan\*, Hongzhen Zhong, Shaowei Cai\*, Zhanhao Xiao. 
+Goal-conflict Identification Based on Local Search and Fast Boundary-condition Verification Based on Incremental Satisfiability Filter. 
+*Journal of Systems and Software (JSS)*, 2024, 213: 112036.
+(CCF B, 中科院2区, IF: 3.5,
+[paper](./paper/JSS22-gci-public.pdf), 
+[code](https://github.com/sysulic/LOGION-SWLS-TBC-LISF))
+
+- **Weilin Luo**, Weiyuan Fang, Qiu Junming, Hai Wan\*, Yanan Liu, Rongzhen Ye. 
+ITG: Trace Generation via Iterative Interaction between LLM Query and Trace Checking. 
+*Proceedings of the 46th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)*, 2024: 11-15. 
+(CCF A,
+[paper](./paper/icse24-llmsc-public.pdf), 
+[code](https://github.com/sysulic/ITG), 
+[slide](./slide/ITG_presentation.pdf))
 
 - Hai Wan, Pingjia Liang, Jianfeng Du\*, **Weilin Luo**, Rongzhen Ye, Bo Peng. 
 End-to-End Learning of LTLf Formulae by Faithful LTLf Encoding. 
@@ -48,6 +66,12 @@ SAT-verifiable LTL Satisfiability Checking via Graph Representation Learning.
 [paper](./paper/ase23-ltlsc-public.pdf), 
 [code](https://github.com/sysulic/OSUG), 
 [slide](./ase23-ltlsc-pre.pdf))
+
+- Bo Peng, Pingjia Liang, Tingchen Han, **Weilin Luo**, Jianfeng Du\*, Hai Wan\*, Rongzhen Ye, Yuhang Zheng:
+PURLTL: Mining LTL Specification from Imperfect Traces in Testing. 
+*Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2023: 1766-1770.
+(CCF A, 
+[paper](./paper/ase23-purltl-public.pdf))
 
 - Rongzhen Ye, Tianqu Zhuang, Hai Wan\*, Jianfeng Du\*, **Weilin Luo**, Pingjia Liang.
 A Noise-tolerant Differentiable Learning Approach for Single Occurrence Regular Expression with Interleaving.
@@ -147,15 +171,25 @@ WAP: SAT-Based Computation of Minimal Cut Sets.
 
 ## Patent (authorized)
 
-- 魏欧, 罗炜麟, 李宙州. 一种基于特征配置的系统层综合模型安全验证方法, 2020-06-16, 中国, CN201710146160.0.
+- 万海, **罗炜麟**, 陈泼龙, 曾娟. 一种用于嵌入式系统存储功能测试的数据增广方法及系统, 2024-9-26, 中国, ZL202411348228.X
 
-- 魏欧, 黄鸣宇, 罗炜麟, 王立松. 基于特征配置的故障树生成方法, 2018-11-16, 中国, CN201510828656.7.
+- 万海, **罗炜麟**, 邓浩天, 梁梓豪, 曾娟. 一种基于有限线性时态逻辑无监督可满足性检测的软件设计方法及系统, 2024-9-12, 中国, ZL202411272960.3
 
-- 万海, 钟洪桢, 罗炜麟, 范科峰, 赵杭. 一种形式化需求规约自动化修复方法, 2022-02-25, 中国, ZL202110022180.3.
+- 万海; 陈灏; **罗炜麟**; 曾娟; 黄佳莉. 一种基于触发式规则的反馈式对话意图获取方法, 2023-06-06, 中国, ZL202110743690.X.
 
-- 万海; 陈灏; 罗炜麟; 曾娟; 黄佳莉. 一种基于触发式规则的反馈式对话意图获取方法, 2023-06-06, 中国, CN202110743690.X.
+- 万海, 钟洪桢, **罗炜麟**, 范科峰, 赵杭. 一种形式化需求规约自动化修复方法, 2022-02-25, 中国, ZL202110022180.3.
+
+- 魏欧, **罗炜麟**, 李宙州. 一种基于特征配置的系统层综合模型安全验证方法, 2020-06-16, 中国, ZL201710146160.0.
+
+- 魏欧, 黄鸣宇, **罗炜麟**, 王立松. 基于特征配置的故障树生成方法, 2018-11-16, 中国, ZL201510828656.7.
 
 ## Talk
+
+- Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking, ECNU可信软件学术沙龙, 论坛报告.
+([slide](./slide/ECNU-ltlvsc-pre-20240923.pdf))
+
+- 基于神经符号融合推理的可验证的线性时态逻辑可满足性近似检测, 中国计算机学会人工智能会议 (CCFAI 2024), 知识表示与推理论坛报告. 
+([slide](./slide/CCFAI24-基于神经符号融合推理的可验证的线性时态逻辑可满足性近似检测.pdf))
 
 - Improving Local Search Algorithms via Probabilistic  Configuration Checking, HCP论坛, AAAI 2022报告会报告.
 ([slide](./slide/HCP-aaai22-pcc-pre.pdf))
