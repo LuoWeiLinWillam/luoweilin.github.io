@@ -71,7 +71,8 @@ SAT-verifiable LTL Satisfiability Checking via Graph Representation Learning.
 PURLTL: Mining LTL Specification from Imperfect Traces in Testing. 
 *Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2023: 1766-1770.
 (CCF A, 
-[paper](./paper/ase23-purltl-public.pdf))
+[paper](./paper/ase23-purltl-public.pdf), 
+[slide](./slide/ase23-purltl-pre.pdf))
 
 - Rongzhen Ye, Tianqu Zhuang, Hai Wan\*, Jianfeng Du\*, **Weilin Luo**, Pingjia Liang.
 A Noise-tolerant Differentiable Learning Approach for Single Occurrence Regular Expression with Interleaving.
